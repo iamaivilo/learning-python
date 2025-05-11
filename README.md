@@ -1,7 +1,7 @@
 # My Python Learning Journey
 
 ## First Day Coding - Feb. 28, 2024
-<img src="img/first_day_coding_feb28_2024.jpeg" width="400" alt="First Time Coding">
+<img src="img/first_day_coding_feb28_2024.jpeg" width="600" alt="First Time Coding">
 
 Started on February 28, 2024
 
