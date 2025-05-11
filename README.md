@@ -8,30 +8,36 @@ Started on February 28, 2024
 ## Overview
 This repository contains my journey of learning Python programming. Here you'll find various projects and exercises that demonstrate my progress in different areas of Python programming.
 
-## Topics Covered
-- **Algorithms & Data Structures**
-  - Sorting algorithms (Bubble Sort, Merge Sort)
-  - Searching algorithms
-  - Fibonacci sequence implementations
-  - Two Sum problem solutions
+## Project Structure
+- `algorithms/` - Sorting, searching, and other algorithm implementations
+  - Bubble Sort, Merge Sort
+  - Two Sum solutions
+  - Search algorithms
 
-- **Graphics & Animation**
-  - Tkinter-based animations
-  - Drawing shapes and patterns
+- `graphics/` - Tkinter and drawing related files
+  - Basic animations
+  - Shape drawing
   - Interactive graphics
 
-- **Object-Oriented Programming**
+- `oop/` - Object-Oriented Programming examples
   - Class implementations
   - Bank account simulation
-  - Basic OOP concepts
 
-- **Game Development**
-  - Simple animations
-  - Sound integration
-  - Interactive elements
+- `games/` - Game development projects
+  - Bounce game
+  - Game assets (sounds, images)
 
-## Project Structure
-The repository contains various Python files, each focusing on different concepts and implementations. Feel free to explore the code and see the progression of learning!
+- `basics/` - Basic Python concepts
+  - Fibonacci implementations
+  - Palindrome checker
+  - Basic arithmetic
+
+- `assets/` - Images and sound files
+  - Game assets
+  - Project images
+
+- `img/` - Documentation images
+  - Learning journey photos
 
 ## Getting Started
 To run any of the Python files in this repository, you'll need:
